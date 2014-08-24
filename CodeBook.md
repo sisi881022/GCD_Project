@@ -43,4 +43,11 @@ Getting and Cleaning Data Course Project
      * the tidy data frame (final result) "dat.tidy" merged "dat.mean" and "dat.std" by each varible for each activity and each subject
      * "tidyset.txt" writed "dat.tidy" in text format
 
+## Final dataset
+The tidy dataset with 5940 rows with 5 variables which are:
+- "SubjectID":  there are 1, 2, 10-22
+- "Activity": the 6 activity labels
+- "Feature": There are 33 signals
+- "Mean": the average of mean values by the signals for each activity and subject
+- "STD": the average of standard deviation values by the signals for each activity and subject
 
