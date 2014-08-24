@@ -20,8 +20,8 @@ Getting and Cleaning Data Course Project
 - feature: 561 different feature vectors with time and frequency domain variables, and we are only interested in mean and standard deviation in this project
 
 ## Data Transformation
-- Merges the training and the test sets to create one data set
- -- input: read in test and train datasets separately with subject, features, and activity id
+* Merges the training and the test sets to create one data set
+ ** input: read in test and train datasets separately with subject, features, and activity id
  -- output: the data frame "dat" which merged test and train by rows
 - Extracts only the measurements on the mean and standard deviation for each measurement. 
   -- input: "features.txt"
